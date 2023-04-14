@@ -1,0 +1,2 @@
+# What is project about
+This is a project that I made when I started learning python. it is just a simple game. I upgraded it by making a gui out of it as well. The command-line version is also present in here. 
